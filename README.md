@@ -1,6 +1,8 @@
 # Nginx Docker Container with Custom HTML
 
 This project demonstrates how to run an Nginx Docker container with a custom `index.html` file mounted from the host machine. The goal is to serve a simple HTML page via Nginx, exposed on port `8080`, and allow real-time updates to the content.
+![overview](https://github.com/user-attachments/assets/13103f15-5506-475e-95f8-455b4c80df0a)
+
 
 ## 🎯 Objective
 
