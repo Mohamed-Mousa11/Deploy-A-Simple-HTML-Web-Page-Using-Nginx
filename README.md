@@ -1,7 +1,3 @@
-Here's a detailed `README.md` file for your GitHub repository:
-
----
-
 # Nginx Docker Container with Custom HTML
 
 This project demonstrates how to run an Nginx Docker container with a custom `index.html` file mounted from the host machine. The goal is to serve a simple HTML page via Nginx, exposed on port `8080`, and allow real-time updates to the content.
